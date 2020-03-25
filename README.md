@@ -148,8 +148,7 @@ parcel src/index.html --port 8080
 ```
 http://10.6.128.65:8080/
 ```
-
-![Video de prueba](https://github.com/ULL-ESIT-DSI-1920/dsi-p1-parcel-alu0100944723/blob/master/src/assets/Capturas_Readme/prueba.gif)
+![Prueba ](https://github.com/ULL-ESIT-DSI-1920/dsi-p1-parcel-alu0100944723/blob/master/src/assets/Capturas_Readme/prueba.gif)
 
 * Una vez que hemos hecho eso podemos ver que se nos ha creado una carpeta nueva *dist* que contendrá los archivos que se envían al navegador.
 
