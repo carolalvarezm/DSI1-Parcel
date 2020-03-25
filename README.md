@@ -43,7 +43,7 @@ mkdir -p dsi-p1-parcel/src/{css,js,assets}
 ```
 * Para hacer una estructura básica de html podemos en nuestro editor utilizar Emmet como podemos ver a continuación:
 
-![Video Emmet]({https://github.com/ULL-ESIT-DSI-1920/dsi-p1-parcel-alu0100944723/blob/master/src/assets/Capturas_Readme/emmet.mp4} "Video Emmet")
+![Video Emmet]({https://github.com/ULL-ESIT-DSI-1920/dsi-p1-parcel-alu0100944723/blob/master/src/assets/Capturas_Readme/emmet.gif} "Video Emmet")
 
 ```css
  /*index.css*/
@@ -149,7 +149,7 @@ parcel src/index.html --port 8080
 http://10.6.128.65:8080/
 ```
 
-![Video de prueba]({https://github.com/ULL-ESIT-DSI-1920/dsi-p1-parcel-alu0100944723/blob/master/src/assets/Capturas_Readme/prueba.mp4} "Video Prueba de Parcel")
+![Video de prueba]({https://github.com/ULL-ESIT-DSI-1920/dsi-p1-parcel-alu0100944723/blob/master/src/assets/Capturas_Readme/prueba.gif})
 
 * Una vez que hemos hecho eso podemos ver que se nos ha creado una carpeta nueva *dist* que contendrá los archivos que se envían al navegador.
 
@@ -185,9 +185,9 @@ http://10.6.128.65:8080/
 
 * Podemos ver que se ha desplegado correctamente haciendo click en enviroment dentro de nuestro repositorio en github:
 
-![enviroment](https://github.com/ULL-ESIT-DSI-1920/dsi-p1-parcel-alu0100944723/blob/master/src/assets/Capturas_Readme/build.png)
-![ghpages](https://github.com/ULL-ESIT-DSI-1920/dsi-p1-parcel-alu0100944723/blob/master/src/assets/Capturas_Readme/build.png)
-
+![enviroment](https://github.com/ULL-ESIT-DSI-1920/dsi-p1-parcel-alu0100944723/blob/master/src/assets/Capturas_Readme/enviroment.png)
+![ghpages](https://github.com/ULL-ESIT-DSI-1920/dsi-p1-parcel-alu0100944723/blob/master/src/assets/Capturas_Readme/ghpages.png)
+![Página](https://github.com/ULL-ESIT-DSI-1920/dsi-p1-parcel-alu0100944723/blob/master/src/assets/Capturas_Readme/pagina.png)
 Podemos verlo también en el siguiente [link](https://ull-esit-dsi-1920.github.io/dsi-p1-parcel-alu0100944723/).
 
 * Por último, hemos añadido un clean que limpiará el proyecto.
@@ -207,11 +207,11 @@ Podemos verlo también en el siguiente [link](https://ull-esit-dsi-1920.github.i
 
 * A continuación lo probamos sobre nuestro código:
 
-    ![Prueba de ESLint](https://github.com/ULL-ESIT-DSI-1920/dsi-p1-parcel-alu0100944723/blob/master/src/assets/Capturas_Readme/eslint.png)
+![Prueba de ESLint](https://github.com/ULL-ESIT-DSI-1920/dsi-p1-parcel-alu0100944723/blob/master/src/assets/Capturas_Readme/eslint.png)
 
 * Vemos que tenemos varios errores de estilo, podemos corregirlos fácilmente con la opción --fix:
 
-    ![Arreglando los errores](https://github.com/ULL-ESIT-DSI-1920/dsi-p1-parcel-alu0100944723/blob/master/src/assets/Capturas_Readme/fix.png)
+![Arreglando los errores](https://github.com/ULL-ESIT-DSI-1920/dsi-p1-parcel-alu0100944723/blob/master/src/assets/Capturas_Readme/fix.png)
 
 * A continuación instalaremos el formateador de código Prettier:
 
