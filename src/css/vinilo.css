@@ -1,75 +1,82 @@
-.Circuloext {
-  
-    width:300px;
-    height:300px;
-    border-radius:150px;
-    background:blue;
-    z-index: 100;
-    display:flex;
-    justify-content: space-around;
-}
-
-.Circulo {
-    margin:auto;
-    z-index: 10;
-    width:280px;
-    height:280px;
-    border-radius:150px;
-    background:white;
-    display:flex;
-    justify-content: space-around;
-  
-}
-
-.Circuloint {
-    z-index: 5;
-    width:60px;
-    height:60px;
-    margin:auto;
-    border-radius:150px;
-    background:black;
-}
-
-.container
-{
+.container {
     width: 400px;
     margin: auto;
     background: white;
     display: flex;
-    flex-direction: row;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.Circuloext {
+    width: 300px;
+    height: 300px;
+    border-radius: 150px;
+    background: black;
+    z-index: 100;
+    display: flex;
     justify-content: space-around;
 }
 
-.parte5
-{
-    width:240px;
-    height:240px;
-
+.Circulo {
+    margin: auto;
+    z-index: 10;
+    width: 270px;
+    height: 270px;
+    border-radius: 150px;
+    background: white;
+    display: flex;
+    justify-content: space-around;
 }
 
-.parte4
-{
-    width:200px;
-    height:200px;
+.Circuloint {
+    z-index: 5;
+    width: 65px;
+    height: 65px;
+    margin: auto;
+    border-radius: 150px;
+    background: red;
+    display: flex;
+    justify-content: space-around;
 }
 
-.parte3
-{
-    width:160px;
-    height:160px;  
+.parte6 {
+    width: 270px;
+    height: 270px;
+    margin: auto;
 }
-.parte2
-{
-    width:120px;
-    height:120px;  
+
+.parte5 {
+    width: 220px;
+    height: 220px;
+    margin: auto;
 }
-.parte1
-{
-    width:100px;
-    height:100px;  
+
+.parte4 {
+    width: 200px;
+    height: 200px;
+    margin: auto;
 }
-.parte0
-{
-    width:80px;
-    height:80px;  
+
+.parte3 {
+    width: 140px;
+    height: 140px;
+    margin: auto;
+}
+
+.parte2 {
+    width: 120px;
+    height: 120px;
+    margin: auto;
+}
+
+.parte1 {
+    width: 70px;
+    height: 70px;
+    margin: auto;
+}
+
+.parte0 {
+    width: 10px;
+    height: 10px;
+    margin: auto;
 }
