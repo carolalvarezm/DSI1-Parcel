@@ -1,6 +1,7 @@
 node_modules
 dist
 .cache
+build
 .vscode/*
 !.vscode/settings.json
 !.vscode/tasks.json
