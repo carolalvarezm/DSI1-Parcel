@@ -4,8 +4,10 @@
         "es6": true
     },
     "extends": [
-        "standard"
+        "standard",
+        "prettier"
     ],
+    "plugins": ["prettier"],
     "globals": {
         "Atomics": "readonly",
         "SharedArrayBuffer": "readonly"
@@ -15,7 +17,8 @@
         "sourceType": "module"
     },
     "rules": {
-        "indent": ["error", 4],
-        "semi": ["error", "always"]
+        "indent": ["error", 2],
+        "semi": ["error", "always"],
+        "quotes": ["error", "double"]
     }
 }
