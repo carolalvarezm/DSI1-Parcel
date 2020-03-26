@@ -218,9 +218,26 @@ Podemos verlo también en el siguiente [link](https://ull-esit-dsi-1920.github.i
 
 * Para evitar incompatibilidades con ESLint instalamos también los siguientes plugins:
 
-
 ![Instalando plugins de Prettier](https://github.com/ULL-ESIT-DSI-1920/dsi-p1-parcel-alu0100944723/blob/master/src/assets/Capturas_Readme/pluginsprettier.png)
 
 ## Retos
 ### Reto 1: Vinilo
+
+* Para este reto, empecé creando el archivo html que se compone de unos div dentro de otros.
+
+* En el archivo css, primero cambio el aspecto de la clase container que centrará todo el contenido.
+* A continuación, con las clases circulo, circuloext, y circuloint, hago los primeros círculos de diferentes colores.
+* Por último las clases parte# que irán disminuyendo el tamaño de los círculos.
+
+* Puede verse en la página enlazada a la principal *Reto 1: Vinilo*
+![Ejemplo Vinilo](https://github.com/ULL-ESIT-DSI-1920/dsi-p1-parcel-alu0100944723/blob/master/src/assets/Capturas_Readme/vinilo.png)
+
+
 ### Reto 2: Assets con Parcel
+
+* Al incluir un recurso estático en nuestro código, parcel lo incluye dentro de los archivos finales del proyecto.
+
+![Incluyendo Assets](https://github.com/ULL-ESIT-DSI-1920/dsi-p1-parcel-alu0100944723/blob/master/src/assets/Capturas_Readme/assetsincluir.png)
+
+![Recursos estáticos](https://github.com/ULL-ESIT-DSI-1920/dsi-p1-parcel-alu0100944723/blob/master/src/assets/Capturas_Readme/assets.png)
+

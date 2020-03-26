@@ -1,97 +1,82 @@
 .container {
-  width: 400px;
-  margin: auto;
-  background: white;
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
+    width: 400px;
+    margin: auto;
+    background: white;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
 }
+
 .Circuloext {
-  width: 300px;
-  height: 300px;
-  border-radius: 150px;
-  background: black;
-  z-index: 100;
-  display: flex;
-  justify-content: space-around;
+    width: 300px;
+    height: 300px;
+    border-radius: 150px;
+    background: black;
+    z-index: 100;
+    display: flex;
+    justify-content: space-around;
 }
 
 .Circulo {
-  margin: auto;
-  z-index: 10;
-  width: 270px;
-  height: 270px;
-  border-radius: 150px;
-  background: white;
-  display: flex;
-  justify-content: space-around;
+    margin: auto;
+    z-index: 10;
+    width: 270px;
+    height: 270px;
+    border-radius: 150px;
+    background: white;
+    display: flex;
+    justify-content: space-around;
 }
 
 .Circuloint {
-  z-index: 5;
-  width: 65px;
-  height: 65px;
-  margin: auto;
-  border-radius: 150px;
-  background: red;
-  display: flex;
-  justify-content: space-around;
+    z-index: 5;
+    width: 65px;
+    height: 65px;
+    margin: auto;
+    border-radius: 150px;
+    background: red;
+    display: flex;
+    justify-content: space-around;
 }
 
-.parte10 {
-  width: 270px;
-  height: 270px;
-  margin: auto;
-}
-
-.parte9 {
-  width: 220px;
-  height: 220px;
-  margin: auto;
-}
-
-.parte8 {
-  width: 220px;
-  height: 220px;
-  margin: auto;
-}
-.parte7 {
-  width: 200px;
-  height: 200px;
-  margin: auto;
-}
 .parte6 {
-  width: 200px;
-  height: 200px;
-  margin: auto;
+    width: 270px;
+    height: 270px;
+    margin: auto;
 }
+
 .parte5 {
-  width: 140px;
-  height: 140px;
-  margin: auto;
+    width: 220px;
+    height: 220px;
+    margin: auto;
 }
+
 .parte4 {
-  width: 140px;
-  height: 140px;
-  margin: auto;
+    width: 200px;
+    height: 200px;
+    margin: auto;
 }
+
 .parte3 {
-  width: 120px;
-  height: 120px;
-  margin: auto;
+    width: 140px;
+    height: 140px;
+    margin: auto;
 }
+
 .parte2 {
-  width: 120px;
-  height: 120px;
-  margin: auto;
+    width: 120px;
+    height: 120px;
+    margin: auto;
 }
+
 .parte1 {
-  width: 70px;
-  height: 70px;
-  margin: auto;
+    width: 70px;
+    height: 70px;
+    margin: auto;
 }
+
 .parte0 {
-  width: 10px;
-  height: 10px;
-  margin: auto;
+    width: 10px;
+    height: 10px;
+    margin: auto;
 }

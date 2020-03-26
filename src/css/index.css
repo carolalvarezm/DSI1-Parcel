@@ -14,10 +14,9 @@
 .box2 {
   background: rgb(90, 5, 90);
 }
-.container2
-{
+.container2 {
   width: 400px;
-  height:200px;
+  height: 200px;
   margin: auto;
   background: white;
   display: flex;
